@@ -1,0 +1,55 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.basdaky{
+    display: flex;
+    justify-content: center;
+  
+}
+
+.dasky {
+    margin-top: 20px;
+    display: block;
+    justify-content: center;
+}
+
+.debito{
+    display: flex;
+    justify-content: center;
+    
+}
+
+h1{
+    font-family: "Jersey 25", sans-serif;
+}
+
+.blok {
+    width: 360px;
+    height: 120px;
+    display: flex;
+    object-fit: fill;
+    justify-content: center;
+}
+
+.blok img{
+    margin-top: 15px;
+    width: 300px;
+    height: 250px;
+    object-fit: fill;
+    border-radius: 8px;
+}
+
+.apk{
+    display: flex;
+    justify-content: center;
+    margin-top: 180px;
+}
+
+ /* h3{
+    justify-content: center;
+    margin-top: 20px;
+} */
